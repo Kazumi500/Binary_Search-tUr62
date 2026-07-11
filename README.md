@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="./assets/logo.svg" alt="BST logo">
+</p>
+
 # Balanced BST
+
+<div align="center">
+  <img alt="ISC" src="https://img.shields.io/badge/License-ISC-blue?style=for-the-badge">
+  
+</div>
+
 
 A small, ESM-only JavaScript binary search tree: build, insert,
 delete, traverse, balance. Stdlib only; no runtime dependencies.
