@@ -1,0 +1,20 @@
+{
+  "name": "binary_search-tur62",
+  "version": "1.0.0",
+  "description": "Balanced BST with traversals + rebalance",
+  "main": "src/bst.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/driver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "babel-jest": "^30.4.1",
+    "jest": "^30.4.2"
+  }
+}
